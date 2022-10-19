@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Alexandr
+- I'm learning python and writing simple programs
